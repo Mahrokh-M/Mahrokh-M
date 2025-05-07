@@ -1,9 +1,0 @@
-
-<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
-  <rect width="120" height="120" rx="16" fill="#0D1117"/>
-  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
-        font-size="64" fill="#00FFAA" font-family="Fira Code, monospace">
-    MM
-    <animate attributeName="opacity" values="1;0.6;1" dur="1.5s" repeatCount="indefinite" />
-  </text>
-</svg>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="200" viewBox="0 0 400 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text-outline {
+      fill: none;
+      stroke: #00ffc8;
+      stroke-width: 3;
+      stroke-dasharray: 800;
+      stroke-dashoffset: 800;
+      animation: draw 2s ease-out forwards;
+    }
+
+    .text-fill {
+      fill: #00ffc8;
+      opacity: 0;
+      animation: fill-in 2s ease-in forwards 2s;
+    }
+
+    @keyframes draw {
+      to {
+        stroke-dashoffset: 0;
+      }
+    }
+
+    @keyframes fill-in {
+      to {
+        opacity: 1;
+      }
+    }
+  </style>
+
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
+        font-size="120" font-family="Arial Black, Gadget, sans-serif" class="text-outline">
+    MM
+  </text>
+
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
+        font-size="120" font-family="Arial Black, Gadget, sans-serif" class="text-fill">
+    MM
+  </text>
+</svg>

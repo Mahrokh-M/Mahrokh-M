@@ -35,6 +35,7 @@
 ## 🎯 Fun Fact
 > Ctrl+Z is considered an emotional support tool.
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/Mahrokh-M/Mahrokh-M/output/github-snake-dark.svg?palette=github-dark)
+![GitHub Contribution Snake (dark)](https://raw.githubusercontent.com/Mahrokh-M/Mahrokh-M/manual-run-output/github-snake-dark.svg?palette=github-dark)
+
 
 

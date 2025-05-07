@@ -1,11 +1,10 @@
 <p align="center">
-  <img src="https://github.com/Mahrokh-M/Mahrokh-M/blob/main/mm-logo-animated.svg" width="80" alt="MM logo"/>
+  <img src="https://github.com/Mahrokh-M/Mahrokh-M/blob/main/mm-logo.svg" width="80" alt="MM logo"/>
 </p>
 
-<h2 align="center">Mahrokh Mousavi</h2>
 <p align="center">
-  Computer Engineering student @ <a href="https://english.iut.ac.ir/">Isfahan University of Technology</a><br>
-  Passionate about building reliable software and learning deeply, not just fast.
+  Computer Engineering student at <a href="https://english.iut.ac.ir/">Isfahan University of Technology</a><br>
+  Passionate about building reliable software and learning.
 </p>
 
 <p align="center">

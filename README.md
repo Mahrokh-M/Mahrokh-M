@@ -1,17 +1,14 @@
 <p align="center">
-  <img src="https://github.com/Mahrokh-M/Mahrokh-M/blob/main/mm-logo.svg" width="80" alt="MM logo"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00FFAA&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub!+👾;Always+learning+something+new" alt="Typing animation" />
 </p>
 
 <p align="center">
+</p>
+
+<p align="left">
   Computer Engineering student at <a href="https://english.iut.ac.ir/">Isfahan University of Technology</a><br>
-  Passionate about building reliable software and learning.
+    <img src="https://github.com/Mahrokh-M/Mahrokh-M/blob/main/mm-logo.svg" width="80" alt="MM logo"/>Passionate about building reliable software and learning.
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00FFAA&center=true&vCenter=true&width=440&lines=Always+learning+something+new;Welcome+to+my+GitHub!+👾" alt="Typing animation" />
-</p>
-
----
 
 ## ⚙️ Tech Stack
 <p align="center">

@@ -1,10 +1,26 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=e52b50¢er=true&vCenter=true&width=440&lines=Hi,+welcome+to+my+GitHub!👋;Learning+tech+bit+by+bit;Let’s+connect+and+code!" alt="Typing SVG" />
+  <img src="https://github.com/Mahrokh-M/Mahrokh-M/blob/main/mm-logo-animated.svg" width="120" alt="MM animated logo"/>
 </p>
 
-🎓 **Computer Engineering Student** at [Isfahan University of Technology](https://english.iut.ac.ir/)  
-💻 Passionate about coding, problem-solving, and tech innovation  
+<h1 align="center">
+  🚀⚙️ Code • Learn • Build ⚙️🚀
+</h1>
+
+<p align="center">
+  💡 Exploring code, engineering ideas, and having fun with tech!
+</p>
+
+<p align="center">
+  Computer Engineering Student @ <a href="https://english.iut.ac.ir/">Isfahan University of Technology</a> <br>
+  Passionate about solving problems, learning new things, and turning ideas into code 🧠💻
+</p>
+
+<hr>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Learning+tech+bit+by+bit...;Building+things+that+work;Loving+C%2FC%2B%2B%2C+Python%2C+Docker%2C+Qt;Welcome+to+my+GitHub!+👾" alt="Typing animation" />
+</p>
 
 ---
 
@@ -32,12 +48,12 @@
 
 ---
 
-## 🎯 Fun Fact
+## 💡 Fun Fact
 > Ctrl+Z is considered an emotional support tool.
 
-![GitHub Snake](https://mahrokh-m.github.io/snk/docker/github-contribution-grid-snake-dark.svg)
+---
 
-
-
-
-
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://mahrokh-m.github.io/snk/docker/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
+</p>

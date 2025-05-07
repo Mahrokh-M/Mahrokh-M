@@ -1,17 +1,15 @@
 
-```html
-<pre style="color: #00FF00; font-family: monospace;">
+```bash
  _            _  _                                    _      _    _ 
 | |__    ___ | || |  ___      __      __  ___   _ __ | |  __| |  / \
 | '_ \  / _ \| || | / _ \     \ \ /\ / / / _ \ | '__|| | / _` | /  /
 | | | ||  __/| || || (_) | _   \ V  V / | (_) || |   | || (_| |/\_/ 
 |_| |_| \___||_||_| \___/ ( )   \_/\_/   \___/ |_|   |_| \__,_|\/   
                           |/                                        
-</pre>
 ```
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00FF00¢er=true&vCenter=true&width=440&lines=Hi,+welcome+to+my+GitHub!;Learning+tech+bit+by+bit;Excited+to+share+my+journey" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00FF00¢er=true&vCenter=true&width=440&lines=Hi,+welcome+to+my+GitHub!👋;Learning+tech+bit+by+bit;Excited+to+share+my+journey;Let’s+connect+and+code!" alt="Typing SVG" />
 </p>
 
 🎓 **Computer Engineering Student** @ [Isfahan University of Technology](https://english.iut.ac.ir/)  
@@ -44,5 +42,5 @@
 ---
 
 ## 🎯 Fun Fact
-> Ctrl+Z is considered an emotional support tool😀
+> Ctrl+Z is considered an emotional support tool.
 

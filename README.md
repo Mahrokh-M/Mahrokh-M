@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00FF00¢er=true&vCenter=true&width=440&lines=Hi,+welcome+to+my+GitHub!👋;Learning+tech+bit+by+bit;Excited+to+share+my+journey;Let’s+connect+and+code!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=e52b50¢er=true&vCenter=true&width=440&lines=Hi,+welcome+to+my+GitHub!👋;Learning+tech+bit+by+bit;Let’s+connect+and+code!" alt="Typing SVG" />
 </p>
 
 🎓 **Computer Engineering Student** @ [Isfahan University of Technology](https://english.iut.ac.ir/)  
@@ -35,7 +35,8 @@
 ## 🎯 Fun Fact
 > Ctrl+Z is considered an emotional support tool.
 
-![GitHub Contribution Snake (dark)](https://raw.githubusercontent.com/Mahrokh-M/Mahrokh-M/manual-run-output/github-snake-dark.svg?palette=github-dark)
+![GitHub Snake](https://mahrokh-m.github.io/Mahrokh-M/docker/github-contribution-grid-snake-dark.svg)
+
 
 
 

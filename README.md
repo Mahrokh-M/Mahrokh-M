@@ -15,7 +15,7 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,python,docker,qt,postgres,git,linux" />
 </p>
 
----
+
 
 ## 📊 Stats
 <p align="center">
@@ -23,7 +23,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahrokh-M&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
----
+
 
 ## 🔗 Contact
 <p align="center">
@@ -32,7 +32,7 @@
   <a href="https://www.linkedin.com/in/mahrokh-mousavi-05323a213"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
 </p>
 
----
+
 
 ## 🐍 Contribution Snake
 <p align="center">

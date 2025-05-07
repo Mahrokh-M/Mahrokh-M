@@ -7,7 +7,7 @@
 
 <p align="left">
   Computer Engineering student at <a href="https://english.iut.ac.ir/">Isfahan University of Technology</a><br>
-    <img src="https://github.com/Mahrokh-M/Mahrokh-M/blob/main/mm-logo.svg" width="80" alt="MM logo"/>Passionate about building reliable software and learning.
+  Passionate about building reliable software and learning.
 </p>
 
 ## ⚙️ Tech Stack

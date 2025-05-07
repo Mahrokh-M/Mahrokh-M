@@ -32,9 +32,6 @@
   <a href="https://www.linkedin.com/in/mahrokh-mousavi-05323a213"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
 </p>
 
-
-
-## 🐍 Contribution Snake
 <p align="center">
   <img src="https://mahrokh-m.github.io/snk/docker/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>

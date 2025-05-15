@@ -12,7 +12,7 @@
 
 ## ⚙️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,docker,qt,postgres,git,linux,django,ceph" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,docker,qt,postgres,git,linux,django" />
 </p>
 
 

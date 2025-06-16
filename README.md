@@ -33,5 +33,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Mahrokh-M/Mahrokh-M/blob/output/dist/github-contribution-grid-snake.gif?raw=true" alt="GitHub Contribution Snake" />
+  <img src="https://github.com/Mahrokh-M/Mahrokh-M/blob/output/dist/github-contribution-grid-snake-dark.svg?raw=true" alt="GitHub Contribution Snake" />
 </p>
